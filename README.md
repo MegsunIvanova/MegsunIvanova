@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, My name is Miglena Ivanova and I am Java Web Developer.
+### My name is Miglena Ivanova and I am Java Web Developer.
 
 I enjoy programming the most when I can solve someone's problem and a solution is positively surprising to a user. In constant pursuit of the perfect Java packaging. One of the greatest advantages of our industry is the ability to share knowledge and change the world by creating awesome products. 
 
