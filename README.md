@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 Introduction & Bio
+### Hi, I am Miglena Ivanova 🇧🇬
+
+<a href="https://www.linkedin.com/in/miglena-ivanova-b6008669/">
+  <img align="left" alt="Miglena's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
+</a>
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MegsunIvanova)](https://git.io/streak-stats)
