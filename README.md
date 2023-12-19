@@ -28,6 +28,8 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MegsunIvanova)](https://git.io/streak-stats)
 
+- 🔭 I’m currently looking to work as a junior java developer at a leading software company.
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -52,6 +54,3 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegsunIvanova&show_icons=true&theme=great-gatsby)](https://github.com/MegsunIvanova?tab=repositories)
-
-- 🔭 I’m currently looking to work as a junior java developer at a leading software company.
