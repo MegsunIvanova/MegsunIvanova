@@ -13,7 +13,7 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:megsunmeg@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/miglena-ivanova-b6008669/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegsunIvanova)](https://github.com/MegsunIvanova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegsunIvanova&layout=donut)](https://github.com/MegsunIvanova/github-readme-stats)
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
