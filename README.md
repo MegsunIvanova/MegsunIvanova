@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Introduction & Bio
-### Hi, I am Miglena Ivanova 🇧🇬
+### Hi, My name is Miglena Ivanova and I am Java Web Developer.
 
-<a href="https://www.linkedin.com/in/miglena-ivanova-b6008669/">
-  <img align="left" alt="Miglena's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
-</a>
-<br>
+I enjoy programming the most when I can solve someone's problem and a solution is positively surprising to a user. In constant pursuit of the perfect Java packaging. One of the greatest advantages of our industry is the ability to share knowledge and change the world by creating awesome products. 
+
+Feel free to contact me in any case and if I will be able, I will be happy to help you.
+
+[![](https://komarev.com/ghpvc/?username=MegsunIvanova&color=000000)](https://github.com/MegsunIvanova?tab=repositories)
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:megsunmeg@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/miglena-ivanova-b6008669/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MegsunIvanova)](https://git.io/streak-stats)
 
