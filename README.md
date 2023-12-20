@@ -1,8 +1,8 @@
-<h1 align= "center"><b>Hey there🙋‍♂️, My name is Miglena Ivanova and I am Java Web Developer.</b></h1>
+<h1 align= "center"><b>Hey there, My name is Miglena Ivanova and I am Java Web Developer.</b></h1>
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlueXJjM3czcDllNG1wM2I2bjNheWlqNXVzNGtiNXdnZnJsYTA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif"></p>
 
-<h2 align= "center"><b>I enjoy programming and I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and change the world🌍 by creating awesome products🏭!</b></h2>
+<h2 align= "center"><b>I enjoy programming and I look forward to absorb knowledge,gain experience, collaborate and change the world by creating awesome products!</b></h2>
 
 <p>I’m currently looking to work as a junior java developer at a leading software company.</p>
 <p>Feel free to contact me in any case and if I will be able, I will be happy to help you.</p>
