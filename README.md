@@ -2,11 +2,14 @@
 
 ### My name is Miglena Ivanova and I am Java Web Developer.
 
-I enjoy programming the most when I can solve someone's problem and a solution is positively surprising to a user. In constant pursuit of the perfect Java packaging. One of the greatest advantages of our industry is the ability to share knowledge and change the world by creating awesome products. 
+<h1 align= "center"><b>Hey there🙋‍♂️, I am Miglena Ivanova</b></h1>
 
-I’m currently looking to work as a junior java developer at a leading software company.
+<p align="center"><iframe src="https://giphy.com/embed/3o7qE1YN7aBOFPRw8E" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vr-bigblueboo-rescuties-3o7qE1YN7aBOFPRw8E">via GIPHY</a></p>
 
-Feel free to contact me in any case and if I will be able, I will be happy to help you.
+<h2 align= "center"><b>I enjoy programming and I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and change the world🌍 by creating awesome products🏭!</b></h2>
+
+<p>I’m currently looking to work as a junior java developer at a leading software company.</p>
+<p>Feel free to contact me in any case and if I will be able, I will be happy to help you.</p>
 
 [![](https://komarev.com/ghpvc/?username=MegsunIvanova&color=000000)](https://github.com/MegsunIvanova?tab=repositories)
 
