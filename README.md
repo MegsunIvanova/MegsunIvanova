@@ -1,8 +1,4 @@
-### Hi there 👋
-
-### My name is Miglena Ivanova and I am Java Web Developer.
-
-<h1 align= "center"><b>Hey there🙋‍♂️, I am Miglena Ivanova</b></h1>
+<h1 align= "center"><b>Hey there🙋‍♂️, My name is Miglena Ivanova and I am Java Web Developer.</b></h1>
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlueXJjM3czcDllNG1wM2I2bjNheWlqNXVzNGtiNXdnZnJsYTA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif"></p>
 
