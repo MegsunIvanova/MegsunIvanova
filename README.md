@@ -4,7 +4,7 @@
 
 <h1 align= "center"><b>Hey there🙋‍♂️, I am Miglena Ivanova</b></h1>
 
-<p align="center"><iframe src="https://giphy.com/embed/3o7qE1YN7aBOFPRw8E" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vr-bigblueboo-rescuties-3o7qE1YN7aBOFPRw8E">via GIPHY</a></p>
+<p align="center"><img width=50% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlueXJjM3czcDllNG1wM2I2bjNheWlqNXVzNGtiNXdnZnJsYTA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif"></p>
 
 <h2 align= "center"><b>I enjoy programming and I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and change the world🌍 by creating awesome products🏭!</b></h2>
 
