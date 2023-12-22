@@ -4,8 +4,8 @@
 
 <h2 align= "center"><b>I enjoy programming and I look forward to absorb knowledge,gain experience, collaborate and change the world by creating awesome products!</b></h2>
 
-<p>I’m currently looking to work as a junior java developer at a leading software company.</p>
-<p>Feel free to contact me in any case and if I will be able, I will be happy to help you.</p>
+<p align= "center">I’m currently looking to work as a junior java developer at a leading software company.</p>
+
 
 [![](https://komarev.com/ghpvc/?username=MegsunIvanova&color=000000)](https://github.com/MegsunIvanova?tab=repositories)
 
